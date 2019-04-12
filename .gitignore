@@ -3,3 +3,15 @@
 ################################################################################
 
 /.vs
+/API/bin/Debug/netcoreapp2.2
+/API/obj
+/Dto/bin/Debug/netcoreapp2.2
+/Dto/obj
+/Helper/bin/Debug/netcoreapp2.2
+/Helper/obj
+/MVC/bin/Debug/netcoreapp2.2
+/MVC/obj
+/Repo/bin/Debug/netcoreapp2.2
+/Repo/obj
+/Service/bin/Debug/netcoreapp2.2
+/Service/obj
